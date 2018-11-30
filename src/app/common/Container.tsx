@@ -12,6 +12,9 @@ const StyledDiv = styled.div`
   background: white;
 `;
 
+/**
+ * @author zakaria harti
+ */
 export const Container: React.SFC<{}> = (props) => {
   return(
     <StyledDiv>
